@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Modern JS applications
-- 🌱 I’m currently learning React and Redux with Spephen Grider
+- 🌱 I’m currently learning React and Redux
 - 📫 How to reach me: ayp5xc@virginia.edu
 - 😄 Pronouns: he/him
 - ⚡ Fun fact:
