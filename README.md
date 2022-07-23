@@ -1,10 +1,4 @@
 ### Hi there 👋
-
-<!--
-**popov-alex/popov-alex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Modern JS applications
 - 🌱 I’m currently learning React and Redux
 - 📫 How to reach me: ayp5xc@virginia.edu
