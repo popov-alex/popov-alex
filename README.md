@@ -4,6 +4,7 @@
 - 📫 How to reach me: ayp5xc@virginia.edu
 - 😄 Pronouns: he/him
 - ⚡ Fun fact:
+
 I lived in apartment 404 of the dorm of my alma mater for five years.
 
 No surprise, I became a lawyer and I could not find my way to coding.
