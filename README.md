@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Modern JS applications
-- 🌱 I’m currently learning React and Redux
+- 🔭 I enjoy working on Modern JS applications using React and Redux
+- 🌱 I’m currently learning Typescript and Redux Toolkit
 - 📫 How to reach me: ayp5xc@virginia.edu
 - 😄 Pronouns: he/him
 - ⚡ Fun fact:
