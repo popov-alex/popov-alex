@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 🔭 I enjoy working on Modern JS applications using React and Redux
-- 🌱 I’m currently learning Typescript and Redux Toolkit
+- 🔭 As a full-stack engineer, I take pleasure in working on modern JavaScript applications using React and Node.js
 - 📫 How to reach me: ayp5xc@virginia.edu
 - 😄 Pronouns: he/him
 - ⚡ Fun fact:
