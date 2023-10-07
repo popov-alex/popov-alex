@@ -1,14 +1,6 @@
 ### Hi there 👋
-- 🔭 As a full-stack engineer, I take pleasure in working on modern JavaScript applications using React and Node.js
-- 📫 How to reach me: ayp5xc@virginia.edu
-- ⚡ Fun fact:
+🔭 As a full-stack engineer, I enjoy working with modern JavaScript applications, particularly those using React and Node.js.
 
-I lived in apartment 404 of the dorm of my alma mater for five years.
+📫 How to reach me: ayp5xc@virginia.edu
 
-No surprise, I became a lawyer and I could not find my way to coding.
-
-This did not happen until I moved to apartment 100, where I reside now.
-
-Everything is OK so far and I need to continue with my request.
-
-I guess, my next apartment should have a number of 200, so I can finally break into Tech.
+⚡ Fun fact: I spent five years living in apartment 404 of my alma mater's dorm. It's perhaps no surprise that I pursued law, unable to find my path to coding. It wasn't until I settled in apartment 100, where I currently reside, that everything seemed to click. I'm now on a tech journey, and I half-jokingly think my next apartment should be numbered 200, marking my full immersion into the tech world.
