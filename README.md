@@ -1,7 +1,6 @@
 ### Hi there 👋
 - 🔭 As a full-stack engineer, I take pleasure in working on modern JavaScript applications using React and Node.js
 - 📫 How to reach me: ayp5xc@virginia.edu
-- 😄 Pronouns: he/him
 - ⚡ Fun fact:
 
 I lived in apartment 404 of the dorm of my alma mater for five years.
